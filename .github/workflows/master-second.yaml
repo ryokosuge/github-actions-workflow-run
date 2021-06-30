@@ -1,4 +1,4 @@
-name: master-seconds-action
+name: master-second-action
 
 on:
   workflow_run:
