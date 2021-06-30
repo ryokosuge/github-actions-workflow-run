@@ -3,7 +3,7 @@ name: master-seconds-action
 on:
   workflow_run:
     workflows:
-      - first-master-action
+      - master-first-action
     branches:
       - master
     types:
