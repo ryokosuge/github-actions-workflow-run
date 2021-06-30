@@ -4,8 +4,6 @@ on:
   workflow_run:
     workflows:
       - master-second-action
-    branches:
-      - master
     types:
       - completed
 
